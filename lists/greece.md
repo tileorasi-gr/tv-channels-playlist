@@ -13,7 +13,7 @@
 | 9  |     Open TV      |       [>](https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8)        | <img height="20" src="https://i.imgur.com/T99OSnk.png"/> |    OpenTV.gr     |
 | 10 |   Makedonia TV   |     [>](https://dlm34ll53zqql.cloudfront.net/out/v1/ab680def497d44e4864475e33e7a3efd/hls/maktv.m3u8)      | <img height="20" src="https://i.imgur.com/6Ir6wcR.png"/> |  MakedoniaTV.gr  |
 | 11 |     Vouli TV     |                       [>](http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8)                       | <img height="20" src="https://i.imgur.com/1vqW7lc.png"/> |    VouliTV.gr    |
-| 12 |     ERT News     |     [>](https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8)     | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> |    ERTNews.gr    |
+| 12 |     ERT News     |     [>](https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8)     | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> |    ERTNews.gr    |
 | 13 |      Kontra      |                     [>](http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8)                     | <img height="20" src="https://i.imgur.com/zMgczHY.png"/> | KontraChannel.gr |
 | 14 |    ERT World     | [>](https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8) | <img height="20" src="https://i.imgur.com/RwrQKns.png"/> |   ERTWorld.gr    |
 | 13 |   ERT Sports 1   |              [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8)               | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> |  ERTSports1.gr   |
