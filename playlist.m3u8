@@ -523,6 +523,8 @@ http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="ERT Sports" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports.gr" group-title="Greece",ERT Sports
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
+#EXTINF:-1 tvg-name="Action24" tvg-logo="https://i.imgur.com/Zi1YohT.png" tvg-id="Action24TV.gr" group-title="Greece",Action24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="Attica TV" tvg-logo="https://i.imgur.com/JniVmlw.jpg" tvg-id="AtticaTV.gr" group-title="Greece",Attica TV
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 100 Ⓢ" tvg-logo="https://i.imgur.com/9rtf8OR.png" tvg-id="TV100.gr" group-title="Greece",TV 100 Ⓢ
