@@ -25,9 +25,16 @@
 | 17 |      Mad Ⓨ      | [x](https://ythls.onrender.com/channel/madtvgreece.m3u8) | <img height="20" src="https://i.imgur.com/OTTxxGe.png"/> |      Mad.gr      |
 | 18 |   One Channel   | [>](https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8) | <img height="20" src="https://i.imgur.com/GwKaHbM.png"/> |  OneChannel.gr   |
 | 18 |    Action24     | [>](https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Zi1YohT.png"/> |  Action24TV.gr   |
-| 19 |    Blue Sky     | [x](https://www.dailymotion.com/cdn/live/video/x7z731p.m3u8?sec=phlVQgysPEUW2KRnf0wQ-oQAtYDMwwUUmVkjwV7YTO73vueGbUtaHZh4pKIBVi5e&dmTs=914164&dmV1st=3a9703a1-6f54-410e-842a-f1f22493bc81) | <img height="20" src="https://i.imgur.com/rzuQslM.png"/> |    BlueSky.gr    |
+| 19 |    Blue Sky     | [>](https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/rzuQslM.png"/> |    BlueSky.gr    |
 | 19 |    Attica TV    | [>](https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/JniVmlw.jpg"/> |   AtticaTV.gr    |
 | 20 |    TV 100 Ⓢ     | [>](https://live.fm100.gr/hls/tv100/1_2/index.m3u8) | <img height="20" src="https://i.imgur.com/9rtf8OR.png"/> |     TV100.gr     |
 | 21 |       4E        | [>](http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8) | <img height="20" src="https://i.imgur.com/Ed085oJ.png"/> |      4E.gr       |
 | 22 | Euronews Greek  | [>](https://ythls.onrender.com/channel/uWIhV9gQClg.m3u8) | <img height="20" src="https://i.imgur.com/8MsbPCU.png"/> | EuronewsGreek.fr |
 | 23 |     RIK Sat     | [>](https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/9edlXHP.png"/> | RikSatTV.cy |
+| 24 |    Acheloos     | [>](http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/5SVMxcu.png" /> | acheloostv.gr |
+| 25 |    Aeolos       | [>](https://cdn.istoikona.com/aeolostv/live/playlist.m3u8) | <img height="20" src="https://i.imgur.com/4G9VvUg.png"/> | aeolostv.gr   |
+| 26 |    Aigaio TV    | [>](https://250weu.bozztv.com/ssh101/ssh101/aigaiotv/playlist.m3u8) | <img height="20" src="https://i.imgur.com/7LfuDJi.png"/> | aigaiotv.gr   |
+| 26 |    Alert        | [>](https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8) | <img height="20" src="https://i.imgur.com/xqa87lG.png"/> | alert.gr   |
+| 27 |    Egnatia      | [>](https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u) | <img height="20" src="https://i.imgur.com/zuyYIca.png"/> | egnatiatv.gr   |
+| 28 |    TRT          | [>](https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8) | <img height="20" src="https://i.imgur.com/g0jPOcC.png"/> | trttv.gr   |
+| 29 |    Astra        | [>](hhttps://ssh101.bozztv.com/ssh101/astratv/playlist.m3u) | <img height="20" src="https://i.imgur.com/oYRPfZm.png"/> | astratv.gr   |
