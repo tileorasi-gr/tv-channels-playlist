@@ -537,12 +537,20 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8
 #EXTINF:-1 tvg-name="Alert" tvg-logo="https://i.imgur.com/xqa87lG.png" tvg-id="alert.gr" group-title="Greece",Alert
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 tvg-name="ART" tvg-logo="https://i.imgur.com/7TyUxLj.png" tvg-id="arttv.gr" group-title="Greece",ART
+https://rumble.com/live-hls/49ln50/playlist.m3u8
+#EXTINF:-1 tvg-name="High TV" tvg-logo="https://i.imgur.com/wHzCGry.png" tvg-id="hightv.gr" group-title="Greece",High TV
+https://live.streams.ovh/hightv/hightv/playlist.m3u8
+#EXTINF:-1 tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" tvg-id="epsilon.gr" group-title="Greece",Epsilon
+https://channel.streams.ovh:1936/epsilontv/epsilontv/chunklist_w504007122.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-logo="https://i.imgur.com/9rtf8OR.png" tvg-id="TV100.gr" group-title="Greece",TV 100
 https://live.fm100.gr/hls/tv100/1_2/index.m3u8
 #EXTINF:-1 tvg-name="4E" tvg-logo="https://i.imgur.com/Ed085oJ.png" tvg-id="4E.gr" group-title="Greece",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Egnatia" tvg-logo="https://i.imgur.com/zuyYIca.png" tvg-id="egnatiatv.gr" group-title="Greece",Egnatia
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
+#EXTINF:-1 tvg-name="Vergina" tvg-logo="https://i.imgur.com/cpF6wvR.png" tvg-id="verginatv.gr" group-title="Greece",Vergina
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtoEe0wbk44WoYcHW6bg0DQ78JMT3o9COAfVJmmkdcCk5KkaIAM2bGUAoKh3vW_W4mm-n-VGbFVB-ybGO_Jdu-ehftjEHH3szYCQ50M6qtc4N94DnkRhOcxXB2T_FC4AxwpW4-BLeIdIjjm7TlHkeH18D6fG97uQAu1tsWoUGu5u9gFyfvOoZrWEuaViiMRL5A-HtLu19-kRR4p_affjMEHR7Qyq4UeP2WE502TNCF4MpZDUakoIhovjJtPhhznT-siRhoGZ5rfjxADvikw5NmKFGChR7-Bc_cu-UEHFGGvvqAnkUCQSbFIDVW61ILoii2r9PiLEwnqIB673DeNO2AaRiSzEKXAu6pNvI8kfd_m5b138N1svRZW-UU_215b7d06tgW_dqKP7IzRauNJCJjtkunvc6X4VpdtE-aLCXCv7srBpnAkJNkbrr7DW9pkm5OMBMRAvMDazUF89L5P0NAmC91uZEqVgj0BwfjukthzH6ZbRIp4fqa4M9ZSl0tcDjTzOjC5QhsqoDcaAXeNNmILM77QLtPQ7hj14HPlBZPnae5ilVk3klc4BOckIOlyWxH3HSPsVw_lMY4PHpxYCRVsVZE_QGgpDrmT7Khm_uXGLDE3sCFJxkCxsX467d_1l9IgI8LSDYeLheyq_jgN53SjZYZQf3VwvOmcwr9Mjvll7J0HiYVsCm0lvflW1-o8QcJfCDj-zmERaOkCRql3AxiMvigKVGQgrBfu784k5IhqHG-ipNat9nnDHayDBPoycxhphUiWhiljNFHcfiLYZFHPNeHVIGcaou2PfMgYaDC7T0_lvAaa74-EQmCABKglldS13ZXN0LTIw3wg.m3u8
 #EXTINF:-1 tvg-name="Acheloos" tvg-logo="https://i.imgur.com/5SVMxcu.png" tvg-id="acheloostv.gr" group-title="Greece",Acheloos
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Aeolos" tvg-logo="https://i.imgur.com/4G9VvUg.png" tvg-id="aeolostv.gr" group-title="Greece",Aeolos
