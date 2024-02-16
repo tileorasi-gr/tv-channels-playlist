@@ -499,6 +499,10 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-name="ERT 3 Ⓖ" tvg-logo="https://i.imgur.com/KyhzDRm.png" tvg-id="ERT3.gr" group-title="Greece",ERT 3 Ⓖ
 http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
+#EXTINF:-1 tvg-name="ERT News new" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews-202402.gr" group-title="Greece",ERT News new
+https://telmacosa.s.llnwi.net/osO/ERTNews/default/index.mpd
+#EXTINF:-1 tvg-name="ERT World new" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld-202402.gr" group-title="Greece",ERT World new
+https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 tvg-name="Mega Channel Ⓖ" tvg-logo="https://i.imgur.com/zewcwLd.png" tvg-id="MEGATVHD.gr" group-title="Greece",Mega Channel Ⓖ
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-name="ANT1 Ⓖ" tvg-logo="https://i.imgur.com/np0s1FN.png" tvg-id="ANT1.gr" group-title="Greece",ANT1 Ⓖ
@@ -515,14 +519,10 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-name="Vouli TV" tvg-logo="https://i.imgur.com/1vqW7lc.png" tvg-id="VouliTV.gr" group-title="Greece",Vouli TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 tvg-name="ERT News" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews.gr" group-title="Greece",ERT News
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Kontra" tvg-logo="https://i.imgur.com/mA5PEbO.png" tvg-id="KontraChannel.gr" group-title="Greece",Kontra
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-name="ERT World" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld.gr" group-title="Greece",ERT World
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="ERT Sports" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports.gr" group-title="Greece",ERT Sports
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
+#EXTINF:-1 tvg-name="ERT Sports new" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports-202402.gr" group-title="Greece",ERT Sports new
+https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd
 #EXTINF:-1 tvg-name="One Channel" tvg-logo="https://i.imgur.com/GwKaHbM.png" tvg-id="OneChannel.gr" group-title="Greece",One Channel
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="Action24" tvg-logo="https://i.imgur.com/Zi1YohT.png" tvg-id="Action24TV.gr" group-title="Greece",Action24
@@ -535,8 +535,6 @@ https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 https://live.fm100.gr/hls/tv100/1_2/index.m3u8
 #EXTINF:-1 tvg-name="4E" tvg-logo="https://i.imgur.com/Ed085oJ.png" tvg-id="4E.gr" group-title="Greece",4E
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsGreek.fr" group-title="Greece",Euronews Greek
-https://ythls.onrender.com/channel/uWIhV9gQClg.m3u8
 #EXTINF:-1 tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/9edlXHP.png" tvg-id="RikSatTV.cy" group-title="Greece",RIK Sat
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Acheloos" tvg-logo="https://i.imgur.com/5SVMxcu.png" tvg-id="acheloostv.gr" group-title="Greece",Acheloos
