@@ -21,13 +21,13 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-name="Vouli TV" tvg-logo="https://i.imgur.com/1vqW7lc.png" tvg-id="VouliTV.gr" group-title="Greece",Vouli TV
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-1 tvg-name="ERT News" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews.gr" group-title="Greece",ERT News
+#EXTINF:-1 tvg-name="ERT News new" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews.gr" group-title="Greece",ERT News new
 https://telmacosa.s.llnwi.net/osO/ERTNews/default/index.mpd
 #EXTINF:-1 tvg-name="Kontra" tvg-logo="https://i.imgur.com/mA5PEbO.png" tvg-id="KontraChannel.gr" group-title="Greece",Kontra
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-name="ERT World" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld.gr" group-title="Greece",ERT World
+#EXTINF:-1 tvg-name="ERT World new" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld.gr" group-title="Greece",ERT World new
 https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd
-#EXTINF:-1 tvg-name="ERT Sports" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports.gr" group-title="Greece",ERT Sports
+#EXTINF:-1 tvg-name="ERT Sports new" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports.gr" group-title="Greece",ERT Sports new
 https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd
 #EXTINF:-1 tvg-name="One Channel" tvg-logo="https://i.imgur.com/GwKaHbM.png" tvg-id="OneChannel.gr" group-title="Greece",One Channel
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
