@@ -499,11 +499,11 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-name="ERT 3 Ⓖ" tvg-logo="https://i.imgur.com/KyhzDRm.png" tvg-id="ERT3.gr" group-title="Greece",ERT 3 Ⓖ
 http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
-#EXTINF:-1 tvg-name="ERT News" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews-202402.gr" group-title="Greece",ERT News
+#EXTINF:-1 tvg-name="ERT News" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews.gr" group-title="Greece",ERT News
 https://telmacosa.s.llnwi.net/osO/ERTNews/default/index.mpd
-#EXTINF:-1 tvg-name="ERT World" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld-202402.gr" group-title="Greece",ERT World
+#EXTINF:-1 tvg-name="ERT World" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld.gr" group-title="Greece",ERT World
 https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd
-#EXTINF:-1 tvg-name="ERT Sports" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports-202402.gr" group-title="Greece",ERT Sports
+#EXTINF:-1 tvg-name="ERT Sports" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports.gr" group-title="Greece",ERT Sports
 https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd
 #EXTINF:-1 tvg-name="Mega Channel Ⓖ" tvg-logo="https://i.imgur.com/zewcwLd.png" tvg-id="MEGATVHD.gr" group-title="Greece",Mega Channel Ⓖ
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
