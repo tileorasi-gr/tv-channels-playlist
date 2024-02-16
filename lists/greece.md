@@ -5,6 +5,8 @@
 |  1  |    ERT 1 Ⓖ     |            [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8)             | <img height="20" src="https://i.imgur.com/WWMe8IY.png"/>  |       ERT1.gr       |
 |  2  |    ERT 2 Ⓖ     |            [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8)             | <img height="20" src="https://i.imgur.com/pcusPFl.png"/>  |       ERT2.gr       |
 |  3  |    ERT 3 Ⓖ     |            [>](http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8)             | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/>  |       ERT3.gr       |
+| 121 |  ERT News new  |                 [>](https://telmacosa.s.llnwi.net/osO/ERTNews/default/index.mpd)                  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/>  |  ERTNews-202402.gr  |
+| 141 | ERT World new  |               [>](https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd)               | <img height="20" src="https://i.imgur.com/KsMTWYw.png"/>  | ERTWorld-202402.gr  |
 |  4  | Mega Channel Ⓖ | [>](https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8) | <img height="20" src="https://i.imgur.com/zewcwLd.png"/>  |     MEGATVHD.gr     |
 |  5  |     ANT1 Ⓖ     |  [>](https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8)  | <img height="20" src="https://i.imgur.com/np0s1FN.png"/>  |       ANT1.gr       |
 |  6  |     Star Ⓖ     |                [>](https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8)                | <img height="20" src="https://i.imgur.com/CJOtJlL.png"/>  |   StarChannel.gr    |
@@ -13,10 +15,8 @@
 |  9  |    Open TV     |   [>](https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8)    | <img height="20" src="https://i.imgur.com/T99OSnk.png"/>  |      OpenTV.gr      |
 | 10  |  Makedonia TV  |   [>](https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8)    | <img height="20" src="https://i.imgur.com/6Ir6wcR.png"/>  |   MakedoniaTV.gr    |
 | 11  |    Vouli TV    |                   [>](http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8)                   | <img height="20" src="https://i.imgur.com/1vqW7lc.png"/>  |     VouliTV.gr      |
-| 121 |  ERT News new  |                 [>](https://telmacosa.s.llnwi.net/osO/ERTNews/default/index.mpd)                  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/>  |  ERTNews.gr  |
 | 13  |     Kontra     |                 [>](http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8)                 | <img height="20" src="https://i.imgur.com/mA5PEbO.png"/>  |  KontraChannel.gr   |
-| 141 | ERT World new  |               [>](https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd)               | <img height="20" src="https://i.imgur.com/KsMTWYw.png"/>  | ERTWorld.gr  |
-| 151 | ERT Sports new |              [>](https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd)              | <img height="20" src="https://i.imgur.com/gebWmAB.png"/>  | ERTSports.gr |
+| 151 | ERT Sports new |              [>](https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd)              | <img height="20" src="https://i.imgur.com/gebWmAB.png"/>  | ERTSports-202402.gr |
 | 17  |     Mad Ⓨ      |                                               [x]()                                               | <img height="20" src="https://i.imgur.com/OTTxxGe.png"/>  |       Mad.gr        |
 | 18  |  One Channel   |                 [>](https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8)                 | <img height="20" src="https://i.imgur.com/GwKaHbM.png"/>  |    OneChannel.gr    |
 | 18  |    Action24    |              [>](https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8)              | <img height="20" src="https://i.imgur.com/Zi1YohT.png"/>  |    Action24TV.gr    |
