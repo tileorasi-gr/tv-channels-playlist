@@ -499,10 +499,12 @@ http://ert-live-bcbs15228.siliconweb.com/media/ert_1/ert_1medium.m3u8
 http://ert-live-bcbs15228.siliconweb.com/media/ert_2/ert_2medium.m3u8
 #EXTINF:-1 tvg-name="ERT 3 Ⓖ" tvg-logo="https://i.imgur.com/KyhzDRm.png" tvg-id="ERT3.gr" group-title="Greece",ERT 3 Ⓖ
 http://ert-live-bcbs15228.siliconweb.com/media/ert_3/ert_3medium.m3u8
-#EXTINF:-1 tvg-name="ERT News new" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews-202402.gr" group-title="Greece",ERT News new
+#EXTINF:-1 tvg-name="ERT News" tvg-logo="https://i.imgur.com/saIGLvr.png" tvg-id="ERTNews-202402.gr" group-title="Greece",ERT News
 https://telmacosa.s.llnwi.net/osO/ERTNews/default/index.mpd
-#EXTINF:-1 tvg-name="ERT World new" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld-202402.gr" group-title="Greece",ERT World new
+#EXTINF:-1 tvg-name="ERT World" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld-202402.gr" group-title="Greece",ERT World
 https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd
+#EXTINF:-1 tvg-name="ERT Sports" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports-202402.gr" group-title="Greece",ERT Sports
+https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd
 #EXTINF:-1 tvg-name="Mega Channel Ⓖ" tvg-logo="https://i.imgur.com/zewcwLd.png" tvg-id="MEGATVHD.gr" group-title="Greece",Mega Channel Ⓖ
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
 #EXTINF:-1 tvg-name="ANT1 Ⓖ" tvg-logo="https://i.imgur.com/np0s1FN.png" tvg-id="ANT1.gr" group-title="Greece",ANT1 Ⓖ
@@ -521,8 +523,6 @@ https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/mak
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-name="Kontra" tvg-logo="https://i.imgur.com/mA5PEbO.png" tvg-id="KontraChannel.gr" group-title="Greece",Kontra
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
-#EXTINF:-1 tvg-name="ERT Sports new" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports-202402.gr" group-title="Greece",ERT Sports new
-https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd
 #EXTINF:-1 tvg-name="One Channel" tvg-logo="https://i.imgur.com/GwKaHbM.png" tvg-id="OneChannel.gr" group-title="Greece",One Channel
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="Action24" tvg-logo="https://i.imgur.com/Zi1YohT.png" tvg-id="Action24TV.gr" group-title="Greece",Action24
