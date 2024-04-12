@@ -2,14 +2,14 @@
 
 <h2>Public Channels</h2>
 
-| #  |    Channel     |                                               Link                                                |                           Logo                            |      EPG id      |
-|:--:|:--------------:|:-------------------------------------------------------------------------------------------------:|:---------------------------------------------------------:|:----------------:|
-| 1  |    ERT 1 Ⓖ     |                  [>](https://telmacosa.s.llnwi.net/osO/ert_1/default/index.mpd)                   | <img height="20" src="https://i.imgur.com/WWMe8IY.png"/>  |     ERT1.gr      |
-| 2  |    ERT 2 Ⓖ     |                  [>](https://telmacosa.s.llnwi.net/osO/ert_2/default/index.mpd)                   | <img height="20" src="https://i.imgur.com/pcusPFl.png"/>  |     ERT2.gr      |
-| 3  |    ERT 3 Ⓖ     |                  [>](https://telmacosa.s.llnwi.net/osO/ert_3/default/index.mpd)                   | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/>  |     ERT3.gr      |
-| 4  |    ERT News    |                 [>](https://telmacosa.s.llnwi.net/osO/ERTNews/default/index.mpd)                  | <img height="20" src="https://i.imgur.com/saIGLvr.png"/>  |    ERTNews.gr    |
-| 5  |   ERT World    |               [>](https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd)               | <img height="20" src="https://i.imgur.com/KsMTWYw.png"/>  |   ERTWorld.gr    |
-| 6  |   ERT Sports   |              [>](https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd)              | <img height="20" src="https://i.imgur.com/gebWmAB.png"/>  |   ERTSports.gr   |
+| # |  Channel   |                                 Link                                  |                           Logo                           |    EPG id    |
+|:-:|:----------:|:---------------------------------------------------------------------:|:--------------------------------------------------------:|:------------:|
+| 1 |  ERT 1 Ⓖ   |    [>](https://ertflix.s.llnwi.net/ertlive/ert1/default/index.mpd)    | <img height="20" src="https://i.imgur.com/WWMe8IY.png"/> |   ERT1.gr    |
+| 2 |  ERT 2 Ⓖ   |  [>](https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd)   | <img height="20" src="https://i.imgur.com/pcusPFl.png"/> |   ERT2.gr    |
+| 3 |  ERT 3 Ⓖ   |  [>](https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd)   | <img height="20" src="https://i.imgur.com/KyhzDRm.png"/> |   ERT3.gr    |
+| 4 |  ERT News  |  [>](https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd)   | <img height="20" src="https://i.imgur.com/saIGLvr.png"/> |  ERTNews.gr  |
+| 5 | ERT World  |  [>](https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd)  | <img height="20" src="https://i.imgur.com/KsMTWYw.png"/> | ERTWorld.gr  |
+| 6 | ERT Sports | [>](https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd) | <img height="20" src="https://i.imgur.com/gebWmAB.png"/> | ERTSports.gr |
 
 <h2>Private National Channels</h2>
 
