@@ -503,7 +503,7 @@ https://ertflix.s.llnwi.net/ertlive/ert3/default/index.mpd
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 tvg-name="ERT World" tvg-logo="https://i.imgur.com/KsMTWYw.png" tvg-id="ERTWorld.gr" group-title="Greece",ERT World
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.mpd
-#EXTINF:-1 tvg-name="ERT Sports" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports.gr" group-title="Greece",ERT Sports
+#EXTINF:-1 tvg-name="ERT Sports 1" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports1.gr" group-title="Greece",ERT Sports 1
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.mpd
 #EXTINF:-1 tvg-name="Mega Channel Ⓖ" tvg-logo="https://i.imgur.com/TjLy6KT.png" tvg-id="MEGATVHD.gr" group-title="Greece",Mega Channel Ⓖ
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
@@ -520,7 +520,7 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-1 tvg-name="Makedonia TV" tvg-logo="https://i.imgur.com/90iDHbQ.png" tvg-id="MakedoniaTV.gr" group-title="Greece",Makedonia TV
 https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 tvg-name="Vouli TV" tvg-logo="https://i.imgur.com/1vqW7lc.png" tvg-id="VouliTV.gr" group-title="Greece",Vouli TV
-http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+https://ertflix.s.llnwi.net/ertlive/vouliexp/default/index.mpd
 #EXTINF:-1 tvg-name="RIK Sat" tvg-logo="https://i.imgur.com/9edlXHP.png" tvg-id="RikSatTV.cy" group-title="Greece",RIK Sat
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Kontra" tvg-logo="https://i.imgur.com/ROZ9VfV.png" tvg-id="KontraChannel.gr" group-title="Greece",Kontra
@@ -539,8 +539,10 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-82/fdd0-tbln_360p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-name="High TV" tvg-logo="https://i.imgur.com/wHzCGry.png" tvg-id="hightv.gr" group-title="Greece",High TV
 https://live.streams.ovh/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" tvg-id="epsilon.gr" group-title="Greece",Epsilon
-https://neon.streams.gr:8081/epsilontv/index.m3u8
+#EXTINF:-1 tvg-name="Rise" tvg-logo="https://i.imgur.com/B6ZtqJ8.png" tvg-id="tvsmile.gr" group-title="Greece",Rise
+https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1 tvg-name="Smile" tvg-logo="https://i.imgur.com/Ax6K20a.png" tvg-id="tvsmile.gr" group-title="Greece",Smile
+http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-logo="https://i.imgur.com/9rtf8OR.png" tvg-id="TV100.gr" group-title="Greece",TV 100
 https://live.fm100.gr/hls/tv100/1_2/index.m3u8
 #EXTINF:-1 tvg-name="4E" tvg-logo="https://i.imgur.com/Ed085oJ.png" tvg-id="4E.gr" group-title="Greece",4E
@@ -549,24 +551,34 @@ http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u
 #EXTINF:-1 tvg-name="Vergina" tvg-logo="https://i.imgur.com/cpF6wvR.png" tvg-id="verginatv.gr" group-title="Greece",Vergina
 https://ssh101-fl.bozztv.com/ssh101/verginatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Acheloos" tvg-logo="https://i.imgur.com/5SVMxcu.png" tvg-id="acheloostv.gr" group-title="Greece",Acheloos
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Aeolos" tvg-logo="https://i.imgur.com/4G9VvUg.png" tvg-id="aeolostv.gr" group-title="Greece",Aeolos
-https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
-#EXTINF:-1 tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-id="trttv.gr" group-title="Greece",TRT
-https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
-#EXTINF:-1 tvg-name="Astra" tvg-logo="https://i.imgur.com/oYRPfZm.png" tvg-id="astratv.gr" group-title="Greece",Astra
-https://video-weaver.ber01.hls.ttvnw.net/v1/playlist/Cs0F8VvuKmKT7omcWx2DoxaqprdMaeQqkkRwHEKLBY5L_u4hKsfl9hq1K9MDeY43jhCsdmpZ9kl_M9FWTPrBHSxWV30qFJZXLnzN0mkg23prugCEEucGjcAlAuYd5pIhWzLtCFLZ0ZU478V_QEY9IRgLeGuJHMxczbTB_K8Wyc0Ibq7MwLuKCpuFr3OI_eZ24tu1lkyNWfKFNNIcrydJnABnD-MWyDBOwB9b3_OZ-ToYxqHgkaomj2ugSkrRQzd9phYHq04Vje63sNZaryKavirBgrUnW7EoWwotXZC-kNZdkTXOUCzfiXBghPUJ3GO9Pyse7D3kB8eDG7e0w7dnNdmGpQIk3iCxXvOp0TdbPDKkTyFmiy2KTw6DMmRj-5suxqkZ286G1seHcSW3Wk-W0HfHz2vg4LB3aIQV7N87cTrrsqL3EXqw2cHgCugo1JX8hHqU6ufADJ04vvzvQv1ZijP6TxNGhApHtTnZeSJOJlZrS26vzBhqGirrL9ablD3bFiAVEWFOxEXxwaxLw6e3pcRKHpCVZVW-Xg5O2zR_gIhGWJMYQDK3m-t_gRMyH4NMpYQingC4fIHHhtt1Go10obCrtKoqXcoSvEamsoE11JGoPq7XpS3rCltrKi1gRvjnUeu92Rrv_WvxVOeQU3i7qKvKsS79xD-A2BhdLraDft66KCCNa3p3rukTm0XxkRXzhuPKggC_4-7Fe4t5wSBNbotko6IYeqYHCdwspZpWys46jcaD5T8vr9DoPCFFBQwkATHliObGMs5iFE_QazxpnzEO9LpJgRaVrZ3UKPwhhgUeMQYWMGB-8_DcTOH9GEQfDxQolsmseTSKGmiwwGc9ygRnu53rJ13t5YsXqJhAFNrLBWlKOQsgxDee4GgpQxc4OtN4aH4xSwo89U4spqYDkTdEtlEes1qtzfNXiD1zhhciPUVyl3gqwppuDFHN3r7TGgy79uc68lO3JgE9vCUgASoJZXUtd2VzdC0yMN4I.m3u8
 #EXTINF:-1 tvg-name="Best TV" tvg-logo="https://i.imgur.com/VA13E3w.png" tvg-id="besttv.gr" group-title="Greece",Best TV
 https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Ionian Channel" tvg-logo="https://i.imgur.com/ADVYeQd.png" tvg-id="ioniantv.gr" group-title="Greece",Ionian Channel
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Mesogeios TV" tvg-logo="https://i.imgur.com/tr0Lf9K.png" tvg-id="mesogeiostv.gr" group-title="Greece",Mesogeios TV
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
+#EXTINF:-1 tvg-name="ORT" tvg-logo="https://i.imgur.com/ytV3lbP.png" tvg-id="ort.gr" group-title="Greece",ORT
+https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
+#EXTINF:-1 tvg-name="PLP" tvg-logo="https://i.imgur.com/2PTEChx.png" tvg-id="plptv.gr" group-title="Greece",PLP
+https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
+#EXTINF:-1 tvg-name="Acheloos" tvg-logo="https://i.imgur.com/5SVMxcu.png" tvg-id="acheloostv.gr" group-title="Greece",Acheloos
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Epsilon" tvg-logo="https://i.imgur.com/vUQSDvZ.png" tvg-id="epsilon.gr" group-title="Greece",Epsilon
+https://neon.streams.gr:8081/epsilontv/index.m3u8
+#EXTINF:-1 tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-id="trttv.gr" group-title="Greece",TRT
+https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8
+#EXTINF:-1 tvg-name="Astra" tvg-logo="https://i.imgur.com/oYRPfZm.png" tvg-id="astratv.gr" group-title="Greece",Astra
+https://video-weaver.ber01.hls.ttvnw.net/v1/playlist/Cv4FUodmcdO-oYJfp1s6FzVOafSxyd2OQ2H09-7pfb8hHqpGATFERYyXaZMDCZPZtOVsXsZsLPLT7EKy8KuEio44LBrIvioRxJ3GX8npgvUbpH6tcDJekLpSz5BMuUZZivBwd4T3K3LIkNzz4i6DD2gr9UrJHFsaa2PGyY6kaVYzGSLS7h_CFBn5_Gq7t_3Oi8Uw5oREmI0YFFTQ7NgcqJnUZbNhzVYjPqII6fjRTGfSGYSi0R-bpYEOvcK8R-SfjJmIcXMR_W9PmkcXavAD4QHbYQgAA8Lf97H5XjvqsdrWM3tKvfxfeNPCyHQuGly4DUCvY14mXpB4WNGlc5-CO7LQ3jWmvQ0sFQilx8VQ365s2kjKAbmdf1MTGCoN16R7vVP9jsGmg30lP6uwCNriwC8WvFiJPXvWr4OyatAIf9CxFwnjiz7eSQ4I3hn5IUo-F2fqa_oeILnEJVIFKUD9dbO7yfkJTPF2bpLSVyo5mLozlD-RJEodAUmwIs3zN5_dNJhEs8irS0O8YNcZiJ1kFuqoMUmqSKQyZZ_4cFZOFdw-u1gUGaVA0fgR2pQMOf9vKTuAPM9c0Z5SNEqnQkLMmdwmzW63NY972maBWVujO7xdS8B6bbJb2Jw79AsV5PT6SlOqdGNv_N3IjFnrIr_KM07btb5ShD6weOrtr6tk2xTvZOlG7ZbyZCCKaUNnMZbB1QBfvVlfCLd5slmY7qfSFS0G1zVvohCM07nUI1FDvy9HQtNb6wdxzr6K0nDnZ4LTq65hnh23rGbd8CNA6T3NOnJCaoKW_bG9P3ggb_s7w22dVn_TRpm-YZqf0SXrTDbqMTLYGKoctPNV_SFgvM_iQAWo1lJ3gdod8XSMj1VhzeXSuTUmzSdL7zS4X5YIzLzkN6IgN0165Ib6U6SjJPxorCIZydYsvxDCD1RFMHeR97iezgWbECjS1Q5RlYLYqAV8QSCrBBjcMWbznq6hEhQQi3UYY6SCJvZ3mje1LdVcqDwBCNWrs1d1Jqk7avsPIFqCnBoMZV6duCnb7uOogtvCIAEqCWV1LXdlc3QtMjDWCQ.m3u8
 #EXTINF:-1 tvg-name="Star Central Greece" tvg-logo="https://i.imgur.com/BTUEvxg.png" tvg-id="digitalstar.gr" group-title="Greece",Star Central Greece
 https://www.dailymotion.com/cdn/live/video/x8rkeb7.m3u8?sec=N88LC5JBq8ouQ8kZeHi5exoW2Sbkr1MHEQD98olACAqPNPQUGwarLP8sLga1BHu0&dmTs=52937&dmV1st=baa4dfed-ec1e-42ac-b4c6-d508240c3e24
+#EXTINF:-1 tvg-name="91NRG" tvg-logo="https://i.imgur.com/g1pCRRG.png" tvg-id="nrg91.gr" group-title="Greece",91NRG
+http://tv.nrg91.gr:1935/onweb/live/master.m3u8
+#EXTINF:-1 tvg-name="Aeolos" tvg-logo="https://i.imgur.com/4G9VvUg.png" tvg-id="aeolostv.gr" group-title="Greece",Aeolos
+https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Creta" tvg-logo="https://i.imgur.com/m1Gc6rh.png" tvg-id="tvcreta.gr" group-title="Greece",Creta
 https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-name="Alfa Dramas" tvg-logo="https://i.imgur.com/vekd8Bp.png" tvg-id="AlfaDramas.gr" group-title="Greece",Alfa Dramas
+https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
 #EXTINF:-1 tvg-name="M1 Hiradó   Ⓨ" tvg-logo="https://i.imgur.com/neddXUd.png" tvg-id="M1.hu" group-title="Hungary",M1 Hiradó   Ⓨ
 https://www.youtube.com/live/DbP9rmGifYs
 #EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://onlinestream.live/logos/6141.png" tvg-id="RTLKlub.hu" group-title="Hungary",RTL Klub
