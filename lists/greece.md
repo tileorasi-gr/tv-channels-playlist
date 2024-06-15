@@ -28,19 +28,20 @@
 
 <h2>Athens Attica</h2>
 
-| #  |   Channel   |                                                             Link                                                              |                           Logo                           |      EPG id      |
-|:--:|:-----------:|:-----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:----------------:|
-| 17 |   Kontra    |                               [>](http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8)                               | <img height="20" src="https://i.imgur.com/ROZ9VfV.png"/> | KontraChannel.gr |
-| 18 |  Attica TV  |                           [>](https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8)                           | <img height="20" src="https://i.imgur.com/IEBVE91.png"/> |   AtticaTV.gr    |
-| 19 |    Mad Ⓨ    |                                                             [x]()                                                             | <img height="20" src="https://i.imgur.com/OTTxxGe.png"/> |      Mad.gr      |
-| 20 | One Channel |                               [>](https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8)                               | <img height="20" src="https://i.imgur.com/GwKaHbM.png"/> |  OneChannel.gr   |
-| 21 |  Action24   |                            [>](https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8)                            | <img height="20" src="https://i.imgur.com/Zi1YohT.png"/> |  Action24TV.gr   |
-| 22 |  Blue Sky   |                            [>](https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8)                             | <img height="20" src="https://i.imgur.com/rzuQslM.png"/> |    BlueSky.gr    |
-| 23 |    Alert    |                                   [>](https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8)                                    | <img height="20" src="https://i.imgur.com/xqa87lG.png"/> |     alert.gr     |
-| 24 |     ART     |                  [>](https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-82/fdd0-tbln_360p/chunklist_DVR.m3u8)                   | <img height="20" src="https://i.imgur.com/7TyUxLj.png"/> |     arttv.gr     |
-| 25 |   High TV   |                                   [>](https://live.streams.ovh/hightv/hightv/playlist.m3u8)                                   | <img height="20" src="https://i.imgur.com/wHzCGry.png"/> |    hightv.gr     |
-| 27 |    Rise     |                                     [>](https://s1.cystream.net/live/smile/playlist.m3u8)                                     | <img height="20" src="https://i.imgur.com/B6ZtqJ8.png"/> |    tvsmile.gr    |
-| 28 |    Smile    | [>](http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8) | <img height="20" src="https://i.imgur.com/Ax6K20a.png"/> |    tvsmile.gr    |
+| #  |   Channel    |                                                             Link                                                              |                           Logo                           |      EPG id      |
+|:--:|:------------:|:-----------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------:|:----------------:|
+| 17 |    Kontra    |                               [>](http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8)                               | <img height="20" src="https://i.imgur.com/ROZ9VfV.png"/> | KontraChannel.gr |
+| 18 |  Attica TV   |                           [>](https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8)                           | <img height="20" src="https://i.imgur.com/IEBVE91.png"/> |   AtticaTV.gr    |
+| 19 |    Mad Ⓨ     |                                                             [x]()                                                             | <img height="20" src="https://i.imgur.com/OTTxxGe.png"/> |      Mad.gr      |
+| 20 | One Channel  |                               [>](https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8)                               | <img height="20" src="https://i.imgur.com/GwKaHbM.png"/> |  OneChannel.gr   |
+| 21 |   Action24   |                            [>](https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8)                            | <img height="20" src="https://i.imgur.com/Zi1YohT.png"/> |  Action24TV.gr   |
+| 22 | Naftemporiki | [>](https://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/live-video=2000000.m3u8)  | <img height="20" src="https://i.imgur.com/b1L375j.png"/> | naftemporiki.gr  |
+| 23 |   Blue Sky   |                            [>](https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8)                             | <img height="20" src="https://i.imgur.com/rzuQslM.png"/> |    BlueSky.gr    |
+| 24 |    Alert     |                                   [>](https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8)                                    | <img height="20" src="https://i.imgur.com/xqa87lG.png"/> |     alert.gr     |
+| 25 |     ART      |                  [>](https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-82/fdd0-tbln_360p/chunklist_DVR.m3u8)                   | <img height="20" src="https://i.imgur.com/7TyUxLj.png"/> |     arttv.gr     |
+| 26 |   High TV    |                                   [>](https://live.streams.ovh/hightv/hightv/playlist.m3u8)                                   | <img height="20" src="https://i.imgur.com/wHzCGry.png"/> |    hightv.gr     |
+| 27 |     Rise     |                                     [>](https://s1.cystream.net/live/smile/playlist.m3u8)                                     | <img height="20" src="https://i.imgur.com/B6ZtqJ8.png"/> |    tvsmile.gr    |
+| 28 |    Smile     | [>](http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8) | <img height="20" src="https://i.imgur.com/Ax6K20a.png"/> |    tvsmile.gr    |
 
 
 <h2>Thessaloniki and Central Macedonia Channels</h2>

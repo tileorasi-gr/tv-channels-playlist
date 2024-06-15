@@ -4,7 +4,7 @@ https://www.youtube.com/user/ANNnewsCH/live
 #EXTINF:-1 tvg-name="NHK General TV Ⓢ" tvg-logo="https://i.imgur.com/ns0PHbl.png" tvg-id="NHKGeneralTV.jp" group-title="Japan",NHK General TV Ⓢ
 https://nhk3.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="Japan",NHK World-Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
 #EXTINF:-1 tvg-name="日テレ Ⓢ" tvg-logo="https://i.imgur.com/IGu52nM.png" tvg-id="NipponTV.jp" group-title="Japan",日テレ Ⓢ
 https://ntv3.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-name="日テレNEWS24 Ⓢ" tvg-logo="https://i.imgur.com/tVNZ0BU.png" tvg-id="NTVNews24.jp" group-title="Japan",日テレNEWS24 Ⓢ
