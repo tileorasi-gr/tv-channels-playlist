@@ -47,10 +47,10 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-82/fdd0-tbln_360p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-name="High TV" tvg-logo="https://i.imgur.com/wHzCGry.png" tvg-id="hightv.gr" group-title="Greece",High TV
 https://live.streams.ovh/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rise" tvg-logo="https://i.imgur.com/B6ZtqJ8.png" tvg-id="tvsmile.gr" group-title="Greece",Rise
-https://s1.cystream.net/live/smile/playlist.m3u8
-#EXTINF:-1 tvg-name="Smile" tvg-logo="https://i.imgur.com/Ax6K20a.png" tvg-id="tvsmile.gr" group-title="Greece",Smile
+#EXTINF:-1 tvg-name="Rise" tvg-logo="https://i.imgur.com/B6ZtqJ8.png" tvg-id="risetv.gr" group-title="Greece",Rise
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
+#EXTINF:-1 tvg-name="Smile" tvg-logo="https://i.imgur.com/Ax6K20a.png" tvg-id="tvsmile.gr" group-title="Greece",Smile
+https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 100" tvg-logo="https://i.imgur.com/9rtf8OR.png" tvg-id="TV100.gr" group-title="Greece",TV 100
 https://live.fm100.gr/hls/tv100/1_2/index.m3u8
 #EXTINF:-1 tvg-name="4E" tvg-logo="https://i.imgur.com/Ed085oJ.png" tvg-id="4E.gr" group-title="Greece",4E
