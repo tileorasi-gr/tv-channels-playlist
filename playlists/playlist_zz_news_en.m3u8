@@ -16,7 +16,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="News (EN)",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="News (EN)",Al Jazeera English
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-name="i24 News English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" tvg-id="i24news.tv" group-title="News (EN)",i24 News English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="News (EN)",Press TV
