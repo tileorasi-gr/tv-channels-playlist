@@ -1,27 +1,99 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/bein.com.xml.gz, https://iptv-org.github.io/epg/guides/ar/i24news.tv.xml.gz, https://iptv-org.github.io/epg/guides/ar/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/az/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/bg/tv.dir.bg.xml.gz, https://iptv-org.github.io/epg/guides/bg/tvprofil.com.xml.gz, https://iptv-org.github.io/epg/guides/bn/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/bs/mtel.ba.xml.gz, https://iptv-org.github.io/epg/guides/ca/andorradifusio.ad.xml.gz, https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml.gz, https://iptv-org.github.io/epg/guides/cs/mujtvprogram.cz.xml.gz, https://iptv-org.github.io/epg/guides/de/hd-plus.de.xml.gz, https://iptv-org.github.io/epg/guides/de/magentatv.at.xml.gz, https://iptv-org.github.io/epg/guides/de/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/de/tvheute.at.xml.gz, https://iptv-org.github.io/epg/guides/el/cosmote.gr.xml.gz, https://iptv-org.github.io/epg/guides/el/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/en/abc.net.au.xml.gz, https://iptv-org.github.io/epg/guides/en/arianaafgtv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/arianatelevision.com.xml.gz, https://iptv-org.github.io/epg/guides/en/bein.com.xml.gz, https://iptv-org.github.io/epg/guides/en/bt.com.xml.gz, https://iptv-org.github.io/epg/guides/en/directv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/dishtv.in.xml.gz, https://iptv-org.github.io/epg/guides/en/dstv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml.gz, https://iptv-org.github.io/epg/guides/en/flixed.io.xml.gz, https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml.gz, https://iptv-org.github.io/epg/guides/en/m.tv.sms.cz.xml.gz, https://iptv-org.github.io/epg/guides/en/melita.com.xml.gz, https://iptv-org.github.io/epg/guides/en/mewatch.sg.xml.gz, https://iptv-org.github.io/epg/guides/en/mytvsuper.com.xml.gz, https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml.gz, https://iptv-org.github.io/epg/guides/en/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/en/plex.tv.xml.gz, https://iptv-org.github.io/epg/guides/en/rev.bs.xml.gz, https://iptv-org.github.io/epg/guides/en/singtel.com.xml.gz, https://iptv-org.github.io/epg/guides/en/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml.gz, https://iptv-org.github.io/epg/guides/en/startimestv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/tapdmv.com.xml.gz, https://iptv-org.github.io/epg/guides/en/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/en/tv.post.lu.xml.gz, https://iptv-org.github.io/epg/guides/en/tvpassport.com.xml.gz, https://iptv-org.github.io/epg/guides/en/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/en/virginmedia.com.xml.gz, https://iptv-org.github.io/epg/guides/en/watchyour.tv.xml.gz, https://iptv-org.github.io/epg/guides/en/xumo.tv.xml.gz, https://iptv-org.github.io/epg/guides/es/cablego.com.pe.xml.gz, https://iptv-org.github.io/epg/guides/es/cableplus.com.uy.xml.gz, https://iptv-org.github.io/epg/guides/es/compulms.com.xml.gz, https://iptv-org.github.io/epg/guides/es/comteco.com.bo.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.ar.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.uy.xml.gz, https://iptv-org.github.io/epg/guides/es/directv.com.xml.gz, https://iptv-org.github.io/epg/guides/es/flixed.io.xml.gz, https://iptv-org.github.io/epg/guides/es/gatotv.com.xml.gz, https://iptv-org.github.io/epg/guides/es/mi.tv.xml.gz, https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml.gz, https://iptv-org.github.io/epg/guides/es/ontvtonight.com.xml.gz, https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.xml.gz, https://iptv-org.github.io/epg/guides/es/reportv.com.ar.xml.gz, https://iptv-org.github.io/epg/guides/es/siba.com.co.xml.gz, https://iptv-org.github.io/epg/guides/es/tv.movistar.com.pe.xml.gz, https://iptv-org.github.io/epg/guides/es/tvpassport.com.xml.gz, https://iptv-org.github.io/epg/guides/et/teliatv.ee.xml.gz, https://iptv-org.github.io/epg/guides/fi/telkku.com.xml.gz, https://iptv-org.github.io/epg/guides/fi/telsu.fi.xml.gz, https://iptv-org.github.io/epg/guides/fo/kvf.fo.xml.gz, https://iptv-org.github.io/epg/guides/fr/canalplus-caraibes.com.xml.gz, https://iptv-org.github.io/epg/guides/fr/canalplus.com.xml.gz, https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.xml.gz, https://iptv-org.github.io/epg/guides/fr/mon-programme-tv.be.xml.gz, https://iptv-org.github.io/epg/guides/fr/programme-tv.net.xml.gz, https://iptv-org.github.io/epg/guides/fr/programme-tv.vini.pf.xml.gz, https://iptv-org.github.io/epg/guides/fr/telecablesat.fr.xml.gz, https://iptv-org.github.io/epg/guides/fr/telenet.tv.xml.gz, https://iptv-org.github.io/epg/guides/fr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml.gz, https://iptv-org.github.io/epg/guides/hi/sky.com.xml.gz, https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.xml.gz, https://iptv-org.github.io/epg/guides/hr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/hr/tvprofil.com.xml.gz, https://iptv-org.github.io/epg/guides/hu/musor.tv.xml.gz, https://iptv-org.github.io/epg/guides/hy/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/id/indihometv.com.xml.gz, https://iptv-org.github.io/epg/guides/id/mncvision.id.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.xml.gz, https://iptv-org.github.io/epg/guides/is/ruv.is.xml.gz, https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.xml.gz, https://iptv-org.github.io/epg/guides/it/superguidatv.it.xml.gz, https://iptv-org.github.io/epg/guides/it/tivu.tv.xml.gz, https://iptv-org.github.io/epg/guides/it/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/ja/tvguide.myjcom.jp.xml.gz, https://iptv-org.github.io/epg/guides/ka/magticom.ge.xml.gz, https://iptv-org.github.io/epg/guides/ko/wavve.com.xml.gz, https://iptv-org.github.io/epg/guides/ku/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/lb/tv.post.lu.xml.gz, https://iptv-org.github.io/epg/guides/lt/cgates.lt.xml.gz, https://iptv-org.github.io/epg/guides/mk/maxtvgo.mk.xml.gz, https://iptv-org.github.io/epg/guides/mn/zuragt.mn.xml.gz, https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml.gz, https://iptv-org.github.io/epg/guides/ms/rtmklik.rtm.gov.my.xml.gz, https://iptv-org.github.io/epg/guides/my/unifi.com.my.xml.gz, https://iptv-org.github.io/epg/guides/nl/delta.nl.xml.gz, https://iptv-org.github.io/epg/guides/nl/telenet.tv.xml.gz, https://iptv-org.github.io/epg/guides/nl/tvgids.nl.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.xml.gz, https://iptv-org.github.io/epg/guides/no/allente.se.xml.gz, https://iptv-org.github.io/epg/guides/no/frikanalen.no.xml.gz, https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml.gz, https://iptv-org.github.io/epg/guides/pt/meo.pt.xml.gz, https://iptv-org.github.io/epg/guides/pt/mi.tv.xml.gz, https://iptv-org.github.io/epg/guides/pt/nos.pt.xml.gz, https://iptv-org.github.io/epg/guides/pt/rtp.pt.xml.gz, https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml.gz, https://iptv-org.github.io/epg/guides/ru/9tv.co.il.xml.gz, https://iptv-org.github.io/epg/guides/ru/magticom.ge.xml.gz, https://iptv-org.github.io/epg/guides/ru/teliatv.ee.xml.gz, https://iptv-org.github.io/epg/guides/ru/tv.mail.ru.xml.gz, https://iptv-org.github.io/epg/guides/ru/tv.yandex.ru.xml.gz, https://iptv-org.github.io/epg/guides/sk/horizon.tv.xml.gz, https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml.gz, https://iptv-org.github.io/epg/guides/sq/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/sr/mts.rs.xml.gz, https://iptv-org.github.io/epg/guides/sv/tv.nu.xml.gz, https://iptv-org.github.io/epg/guides/sv/tv24.se.xml.gz, https://iptv-org.github.io/epg/guides/th/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml.gz, https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/dsmart.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/tv.blue.ch.xml.gz, https://iptv-org.github.io/epg/guides/tr/tvplus.com.tr.xml.gz, https://iptv-org.github.io/epg/guides/tr/ziggogo.tv.xml.gz, https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml.gz, https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml.gz"
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://i.imgur.com/xBLLYyx.png" group-title="News (EN)",BBC News
-https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
-#EXTINF:-1 tvg-name="SkyNews English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsInternational.uk" group-title="News (EN)",SkyNews English
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-#EXTINF:-1 tvg-name="SkyNews Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Sky_News_logo.svg/512px-Sky_News_logo.svg.png" tvg-id="SkyNewsWeather.uk" group-title="News (EN)",SkyNews Weather
-http://late-bird-1612.livetube.eu.org/SkyWeather/index.m3u8?token=9TEQXsK2lKdyI3
-#EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://i.imgur.com/8MsbPCU.png" tvg-id="EuronewsEnglish.fr" group-title="News (EN)",Euronews English
-https://62d77612985e4978b5cec13c47c897b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_EuroNewsLive-1/playlist.m3u8
-#EXTINF:-1 tvg-name="The Guardian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/The_Guardian_2018.svg" tvg-id="CGTN.cn" group-title="News (EN)",The Guardian
-https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Africanews English Ⓨ" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="News (EN)",Africanews English Ⓨ
-https://rakuten-africanews-1-dk.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="France 24 English Ⓨ" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="News (EN)",France 24 English Ⓨ
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="News (EN)",DW English
+#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SkyNewsInternational.uk" group-title="News",Sky News (UK)
+https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsEnglish.fr" group-title="News",Euronews
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 tvg-name="Africanews" tvg-logo="https://i.imgur.com/xocvePC.png" tvg-id="Africanews.cg" group-title="News",Africanews
+https://ythls.armelin.one/channel/UC1_E8NeF5QHY2dtdLRBCCLA.m3u8
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" group-title="News",France 24
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DWEnglish.de" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="News (EN)",Al Jazeera English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-name="i24 News English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/LOGO_i24NEWS.png" tvg-id="i24news.tv" group-title="News (EN)",i24 News English
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraEnglish.qa" group-title="News",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-name="Press TV" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTV.ir" group-title="News (EN)",Press TV
-https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="CGTN English" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="News (EN)",CGTN English
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://i.imgur.com/fMsJYzl.png" tvg-id="CGTN.cn" group-title="News",CGTN
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-name="NHK World-Japan" tvg-logo="https://i.imgur.com/TDCuUDs.png" tvg-id="NHKWorldJapan.jp" group-title="News (EN)",NHK World-Japan
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News Ⓖ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-id="BBCNews.uk" group-title="News",BBC News Ⓖ
+https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" tvg-id="NBCNewsNOW.us" group-title="News",NBC News NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-id="ReutersTV.us" group-title="News",Reuters
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Guardian" tvg-logo="https://i.imgur.com/o9AYq9V.png" tvg-id="TheGuardian.uk" group-title="News",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png" tvg-id="CBSNews.us" group-title="News",CBS News
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" tvg-id="ABCNewsLive.us" group-title="News",ABC News Live
+https://lnc-abc-news.tubi.video/index.m3u8
+#EXTINF:-1 tvg-name="LiveNOW from FOX" tvg-logo="https://i.imgur.com/1JnyzHv.png" tvg-id="LiveNOWFromFOX.us" group-title="News",LiveNOW from FOX
+https://lnc-fox-live-now.tubi.video/index.m3u8
+#EXTINF:-1 tvg-name="CBC News Network" tvg-logo="https://i.imgur.com/SjTdhvJ.png" tvg-id="CBCNewsNetwork.ca" group-title="News",CBC News Network
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-name="Ticker News" tvg-logo="https://i.imgur.com/z7M0QxV.png" tvg-id="tickerNews.au" group-title="News",Ticker News
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8
+#EXTINF:-1 tvg-name="India Today" tvg-logo="https://i.imgur.com/koFYddE.png" tvg-id="IndiaToday.in" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="CNAInternational.sg" group-title="News",Channel News Asia
+https://ythls.armelin.one/channel/UC83jt4dlz1Gjl58fzQrrKZg.m3u8
+#EXTINF:-1 tvg-name="ABC News (AU)" tvg-logo="https://i.imgur.com/BrW7gk8.png" tvg-id="ABCNews.au" group-title="News",ABC News (AU)
+https://ythls.armelin.one/channel/UCVgO39Bk5sMo66-6o6Spn6Q.m3u8
+#EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/india/ndtv-24x7-in.png" tvg-id="NDTV24x7.in" group-title="News",NDTV 24x7
+https://ythls.armelin.one/channel/UCZFMm1mMw0F81Z37aaEzTUA.m3u8
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" group-title="News",TRT World
+https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp" group-title="News",NHK World Japan
+https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+#EXTINF:-1 tvg-name="DD India" tvg-logo="https://i.imgur.com/45uptR8.png" tvg-id="DDIndia.in" group-title="News",DD India
+https://ythls.armelin.one/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+#EXTINF:-1 tvg-name="WION" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" tvg-id="WION.in" group-title="News",WION
+https://ythls.armelin.one/channel/UC_gUM8rL-Lrg6O3adPW9K1g.m3u8
+#EXTINF:-1 tvg-name="Taiwan+" tvg-logo="https://i.imgur.com/SfcZyqm.png" tvg-id="TaiwanPlusTV.tw" group-title="News",Taiwan+
+https://ythls.armelin.one/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
+#EXTINF:-1 tvg-name="Metro Globe Network" tvg-logo="https://i.imgur.com/aiiinzg.png" tvg-id="MetroGlobeNetwork.id" group-title="News",Metro Globe Network
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="i24 News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png" tvg-id="i24NEWSEnglishWorld.il" group-title="News",i24 News
+https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+#EXTINF:-1 tvg-name="Scripps News" tvg-logo="https://i.imgur.com/UfN6aAi.png" tvg-id="ScrippsNews.us" group-title="News",Scripps News
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-name="USA Today" tvg-logo="https://i.imgur.com/37K0AZX.png" tvg-id="USATODAY.us" group-title="News",USA Today
+https://lnc-usa-today.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-name="TVC News Ⓨ" tvg-logo="https://i.imgur.com/jaSq18B.png" tvg-id="TVCNews.ng" group-title="News",TVC News Ⓨ
+https://www.youtube.com/watch?v=IDoNebcGp68
+#EXTINF:-1 tvg-name="Channels 24 Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Channels_TV.jpg" tvg-id="Channels24.ng" group-title="News",Channels 24 Ⓨ
+https://www.youtube.com/watch?v=ENHYOYm-kUE
+#EXTINF:-1 tvg-name="Sky News Now (AU)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png" tvg-id="SkyNewsAustralia.au" group-title="News",Sky News Now (AU)
+https://i.mjh.nz/sky-news-now.m3u8
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" tvg-id="GlobalNews.ca" group-title="News",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-name="Russia Today Ⓖ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RT.ru" group-title="News",Russia Today Ⓖ
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-name="Pluto TV News" tvg-logo="https://i.imgur.com/JdqA4r9.png" tvg-id="PlutoTVNews.us" group-title="News",Pluto TV News
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5268abcd0ce20a8472000114&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNN.us" group-title="News",CNN
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" tvg-id="CNNInternationalEurope.us" group-title="News",CNN International
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" group-title="News",GB News
+https://ythls.armelin.one/channel/UC0vn8ISa4LKMunLbzaXLnOQ.m3u8
+#EXTINF:-1 tvg-name="TalkTV" tvg-logo="https://i.imgur.com/KxHWpQB.png" tvg-id="TalkTV.uk" group-title="News",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+#EXTINF:-1 tvg-name="Joy News" tvg-logo="https://i.imgur.com/kGuMNmR.png" tvg-id="JoyNews.gh" group-title="News",Joy News
+https://ythls.armelin.one/channel/UChd1DEecCRlxaa0-hvPACCw.m3u8
+#EXTINF:-1 tvg-name="SABC News" tvg-logo="https://i.imgur.com/H9q3Q9d.png" tvg-id="SABCNews.gh" group-title="News",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
+#EXTINF:-1 tvg-name="Cheddar News" tvg-logo="https://i.imgur.com/tuP9GW8.png" tvg-id="CheddarNews.us" group-title="Business",Cheddar News
+https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" group-title="Business",Bloomberg TV+
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="CNBCEurope.uk" group-title="Business",CNBC
+https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8
+#EXTINF:-1 tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-id="YahooFinance.us" group-title="Business",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="AccuWeather NOW" tvg-logo="https://i.imgur.com/M8wbVYK.png" tvg-id="AccuWeatherNOW.us" group-title="Weather",AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-Fox_Weather_logo.svg.png" tvg-id="FoxWeather.us" group-title="Weather",Fox Weather
+https://lnc-fox-weather.tubi.video/index.m3u8
+#EXTINF:-1 tvg-name="KTCA-DT5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Twin_Cities_Public_Television_logo_%28PBS%29.png" tvg-id="KTCADT5.us" group-title="Weather",KTCA-DT5
+https://api.new.livestream.com/accounts/12638076/events/8488790/live.m3u8
+#EXTINF:-1 tvg-name="WeatherNation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/WeatherNation_Logo.svg/512px-WeatherNation_Logo.svg.png" tvg-id="WeatherNation.us" group-title="Weather",WeatherNation
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bdce04659ee03633e758130/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bdce04659ee03633e758130&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=217&terminate=false&userId=
