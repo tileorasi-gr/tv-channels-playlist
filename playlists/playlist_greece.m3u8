@@ -21,11 +21,11 @@ https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd
 #EXTINF:-1 tvg-name="ANT1" tvg-logo="https://i.imgur.com/xDdVa9U.png" tvg-id="ANT1.gr" group-title="Greece",ANT1
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
-#EXTINF:-1 tvg-name="Star Ⓖ" tvg-logo="https://i.imgur.com/Hp0stVQ.png" tvg-id="StarChannel.gr" group-title="Greece",Star Ⓖ
+#EXTINF:-1 tvg-name="Star" tvg-logo="https://i.imgur.com/Hp0stVQ.png" tvg-id="StarChannel.gr" group-title="Greece",Star
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-name="AlphaTV" tvg-logo="https://i.imgur.com/bAVGX0l.png" tvg-id="AlphaTV.gr" group-title="Greece",AlphaTV
 https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="Skai TV Ⓖ" tvg-logo="https://i.imgur.com/TSg7B8X.png" tvg-id="SkaiTV.gr" group-title="Greece",Skai TV Ⓖ
+#EXTINF:-1 tvg-name="Skai TV" tvg-logo="https://i.imgur.com/TSg7B8X.png" tvg-id="SkaiTV.gr" group-title="Greece",Skai TV
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-name="Open TV Ⓖ" tvg-logo="https://i.imgur.com/HzBmvPT.png" tvg-id="OpenTV.gr" group-title="Greece",Open TV Ⓖ
 https://s.tvopen.gr/onlygreece.mp4
