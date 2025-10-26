@@ -2,14 +2,14 @@
 
 | #   | Channel         | Link  | Logo | EPG id |
 |:---:|:---------------:|:-----:|:----:|:------:|
-| 1  |    Sky News (UK)    |  [>](https://ythls.armelin.one/channel/UCoMdktPbSTixAyNGwb-UYkQ.m3u8)  |  <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"/>   |  SkyNewsInternational.uk  |
+| 1  |    Sky News (UK)    |  [>](https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8)  |  <img height="20" src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png"/>   |  SkyNewsInternational.uk  |
 | 2  |      Euronews Ⓨ     |  [>](https://www.youtube.com/euronews/live)  |  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png"/>  |  EuronewsEnglish.fr  |
 | 3  |     Africanews Ⓨ    |  [>](https://www.youtube.com/africanews/live)  |  <img height="20" src="https://i.imgur.com/xocvePC.png"/>  |  Africanews.cg  |
 | 4  |      France 24 Ⓨ    |  [>](https://www.youtube.com/france24english/live)  |  <img height="20" src="https://i.imgur.com/61MSiq9.png"/>   |  France24English.fr  |
 | 5  |         DW          |   [>](https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8)  |  <img height="20" src="https://i.imgur.com/A1xzjOI.png"/>  |  DWEnglish.de  |
 | 6  |     Al Jazeera      |   [>](https://live-hls-web-aje.getaj.net/AJE/index.m3u8)  |  <img height="20" src="https://i.imgur.com/BB93NQP.png"/>  |  AlJazeeraEnglish.qa |
 | 7  |        CGTN         |  [>](https://news.cgtn.com/resource/live/english/cgtn-news.m3u8)  |  <img height="20" src="https://i.imgur.com/fMsJYzl.png"/>  |  CGTN.cn |
-| 8  |     BBC News Ⓖ      |  [>](https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"/>  |  BBCNews.uk  |
+| 8  |     BBC News Ⓖ      |  [>](https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png"/>  |  BBCNews.uk  |
 | 9  |    NBC News NOW     |  [>](https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8)  |  <img height="20" src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png"/>  |  NBCNewsNOW.us |
 | 10 |       Reuters       |  [>](https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/6eQ2nCJ.png"/>  |  ReutersTV.us |
 | 11 |    The Guardian     |  [>](https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8)  |  <img height="20" src="https://i.imgur.com/o9AYq9V.png"/>  |  TheGuardian.uk |
