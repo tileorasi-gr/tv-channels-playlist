@@ -90,9 +90,17 @@
 
 
 <h2>Crete</h2>
-| 25 |            NEA             |                              [>](https://live.neatv.gr:8888/hls/neatv_high/index.m3u8)                              |                                           <img height="20" src="https://i.imgur.com/nvNW8G7.png"/>                                           |          NeaTV.gr           |
-| 26   |  Kriti TV | [>](https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/nvNW8G7.png"/> | KritiTv.gr |
+
+<h2>Crete</h2>
+
+| #  |    Channel    | Link                                                                 |                           Logo                           |    EPG id     |
+|:--:|:-------------:|:---------------------------------------------------------------------:|:--------------------------------------------------------:|:-------------:|
+| 25 | NEA           | [>](https://live.neatv.gr:8888/hls/neatv_high/index.m3u8)             | <img height="20" src="https://i.imgur.com/nvNW8G7.png"/>  | NeaTV.gr      |
+| 26 | Kriti TV      | [>](https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8) | <img height="20" src="https://i.imgur.com/nvNW8G7.png"/>  | KritiTv.gr    |
 
 
 <h2>Radio</h2>
-| 12 | Η Φωνή της Ελλάδας |      [>](https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd)       | <img height="20" src="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/512px-VoiceOfGreece.svg.png"/> | ERTWorld1.gr  |
+
+| #  |    Channel     |                                     Link                                     |                           Logo                           |     EPG id     |
+|:--:|:--------------:|:--------------------------------------------------------------------------------:|:--------------------------------------------------------:|:--------------:|
+| 12 | Η Φωνή της Ελλάδας | [>](https://ertmmd.akamaized.net/ertradio/voiceofgreece/default/index.mpd) | <img height="20" src="https://upload.wikimedia.org/wikipedia/el/thumb/5/58/VoiceOfGreece.svg/512px-VoiceOfGreece.svg.png"/> | ERTWorld1.gr |
