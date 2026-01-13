@@ -2,9 +2,9 @@
 
 | #   | Channel        | Link  | Logo | EPG id |
 |:---:|:--------------:|:-----:|:----:|:------:|
-| 1   | BHT 1 Ⓢ | [>](https://webtvstream.bhtelecom.ba/hls15/bhrtportal.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" /> | BHT1.ba |
+| 1   | BHT 1 | [>](https://bhrtstream.bhtelecom.ba/bhrtportal_hd.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Logo_of_BHT_1_%282003-2012%29.png" /> | BHT1.ba |
 | 2   | Federalna televizija (FTV) Ⓢ | [>](http://94.250.2.6:7374/play/a02s/index.m3u8) | <img height="20" src="https://i.imgur.com/Jpvs4u3.png" /> | FederalnaTV.ba |
-| 3   | Televizija Republike Srpske (RTRS) Ⓢ | [>](https://uzivo.rtrs.tv/tv/live/index.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" /> | RTRSTV.ba |
+| 3   | Televizija Republike Srpske (RTRS) Ⓢ | [>](https://parh.rtrs.tv/tv/live/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/RTRS_Logo.svg/640px-RTRS_Logo.svg.png" /> | RTRSTV.ba |
 | 3   | RTRS PLUS Ⓢ | [>](https://pluslive.rtrs.tv/plus/plus/playlist.m3u8) | <img height="20" src="https://i.imgur.com/k06WvYl.png"/> | RTRSplus.ba |
 | 4   | N1 Bosna i Hercegovina | [>](https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info) | <img height="20" src="https://i.imgur.com/72oMSWz.png"/> | N1BosniaHerzegovina.ba |
 | 5   | RTV HB Ⓢ | [>](https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8) | <img height="20" src="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png"/> | RTVHB.ba |
@@ -15,6 +15,7 @@
 | 10  | Televizija 5 | [>](https://balkanmedia.dynu.net/hls/tv5web.m3u8) | <img height="20" src="https://i.imgur.com/znpvJys.png"/> | Televizija5.ba |
 | 11  | Kanal 6 | [>](https://restreamer1.tnt.ba/hls/kanal6.m3u8) | <img height="20" src="https://i.imgur.com/GGhvR0l.png"/> | Kanal6.ba |
 | 12  | SuperTV | [>](https://mirtv.club/live/mirtv/index.m3u8) | <img height="20" src="https://i.imgur.com/XYWgd3E.png"/> | SuperTV.ba |
+| 13  | Neon TV | [>](rtsp://185.50.56.16:554/neontelvizija) | <img height="20" src="https://i.imgur.com/thC9NFp.png"/> | ntv.ba |
 
 <h2>Cantonal</h2>
 
